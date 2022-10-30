@@ -4,8 +4,4 @@ In this architecture, i used a REST API to place a database entry in the Amazon 
 
 # **Architectural Diagram**
 
-❮img src="/POC-concept.png" width="100" ❯
-
-Click [here](https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-Architecting/exercise-1-serverless.html) to get instructions.
-
-![Alt text](pos-serverless-solution/POC-concept.png "Title")
+![](images/POC-concept.png)
